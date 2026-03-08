@@ -1,7 +1,5 @@
 <br/>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/StefanoGiacomelli/stefanogiacomelli.github.io/main/assets/profile.jpeg" width="160" height="160" style="border-radius: 50%; object-fit: cover; border: 4px solid #6366f1; margin-bottom: 20px;" alt="Stefano Giacomelli Profile Picture"/>
-  
+<div align="center">  
   <h1 align="center">Stefano Giacomelli</h1>
   <p align="center"><b>Ph.D. candidate in ICT working on Computational Auditory Scene Analysis (CASA) & Deep Learning for Audio.</b></p>
   <p align="center"><i>Researcher | Developer | Electroacoustic Musician</i></p>
